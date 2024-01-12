@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MindMosaic/static/css/main.6012a09b.css",
+    "main.js": "/MindMosaic/static/js/main.f8597d89.js",
+    "static/media/H1.png": "/MindMosaic/static/media/H1.c87924765055446b312d.png",
+    "static/media/img1.jpg": "/MindMosaic/static/media/img1.a456d413be81d0d2992a.jpg",
+    "static/media/img2.jpg": "/MindMosaic/static/media/img2.368333cdf2904bb3e574.jpg",
+    "static/media/Graphics-transformed.webp": "/MindMosaic/static/media/Graphics-transformed.081f09ff9e8fd18870eb.webp",
+    "index.html": "/MindMosaic/index.html",
+    "main.6012a09b.css.map": "/MindMosaic/static/css/main.6012a09b.css.map",
+    "main.f8597d89.js.map": "/MindMosaic/static/js/main.f8597d89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6012a09b.css",
+    "static/js/main.f8597d89.js"
+  ]
+}
